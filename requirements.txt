@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+Pillow
+tqdm
+jupyter
+seaborn
+fastapi
+uvicorn
+python-multipart
