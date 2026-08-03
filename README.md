@@ -47,7 +47,7 @@ The model classifies MRI scans into the following categories:
 
 ## 📤 Upload MRI
 
-![](screenshots/upload.png)
+![](screenshots/upload.jpg)
 
 ---
 
