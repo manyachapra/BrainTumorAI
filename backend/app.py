@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import io
 
-from predictor import predict
+from backend.predictor import predict
 
 app = FastAPI(title="Brain Tumor Detection API")
 app.mount(
