@@ -2,7 +2,7 @@ import torch
 from torchvision import transforms
 from PIL import Image
 
-from model import model, class_names, device
+from backend.model import model, class_names, device
 
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
